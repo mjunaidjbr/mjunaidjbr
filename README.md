@@ -16,7 +16,7 @@ Certified in IT Automation with Python by Google and as a Back-End Developer by 
     <td style="text-align: center;">
       <h3>Open Source Software Development, Linux and Git Specialization</h3>
       <a href="https://www.credly.com/badges/ad477ff6-44d4-4cd5-b45b-1bfec85897ae">
-        <img src="https://github.com/user-attachments/assets/036e407f-9505-45f1-8e70-4c59d4ce3011" alt="Open Source Software Development Badge" style="width: 100%; max-width: 220px;">
+        <img src="https://github.com/user-attachments/assets/152c795b-ce5a-4bfd-a501-844ae897ee08" alt="Open Source Software Development Badge" style="width: 150px; max-width: 220px;">
       </a>
       <p><strong>Issued by Coursera, Authorized by The Linux Foundation</strong></p>
       <p>This specialization provides a strong foundation in open source development, Linux environments, and Git, enabling proficiency in open source communities and modern version control systems.</p>
@@ -24,7 +24,7 @@ Certified in IT Automation with Python by Google and as a Back-End Developer by 
     <td style="text-align: center;">
       <h3>Google IT Automation with Python Professional Certificate</h3>
       <a href="https://www.credly.com/badges/9cea3615-1232-4b3e-9ad3-90937cc8542c">
-        <img src="https://github.com/user-attachments/assets/99e0c30d-15af-4bb9-8fa6-c627543821de" alt="Google IT Automation with Python Badge" style="width: 100%; max-width: 220px;">
+        <img src="https://github.com/user-attachments/assets/99e0c30d-15af-4bb9-8fa6-c627543821de" alt="Google IT Automation with Python Badge" style="width: 150px; max-width: 220px;">
       </a>
       <p><strong>Issued by Coursera</strong></p>
       <p>This certificate is designed by Google to equip professionals with Python, Git, and IT automation skills, helping them advance careers in IT support and systems administration.</p>
