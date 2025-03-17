@@ -1,62 +1,43 @@
-# 💻 About Me:
-I'm a skilled software developer with expertise in automation and web development, specializing in Python, Bash, and JavaScript. Proficient in frameworks like Django, Selenium, PyQt5, and Pandas, I deliver tailored automation solutions and custom scripts for client needs.
+<h1 align="center">Hi, I'm Junaid 👋</h1>
 
-Certified in IT Automation with Python by Google and as a Back-End Developer by Meta, I excel in Linux system administration, SQL databases, and full-stack web development. Whether it's desktop apps, APIs, or server management, I bring a versatile skill set to drive your project forward. Always eager to collaborate and solve complex problems!
-
----
-
-## 🌐 Connect with Me:
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/mjunaidjbr) 
+<p align="center">
+  <b>Software Developer | Automation Expert | Full-Stack Engineer</b>  
+</p>
 
 ---
+## 💻 About Me  
+I'm a skilled software developer specializing in automation, web, and desktop apps. Proficient in Python, Bash, and JavaScript, I build efficient solutions using Django, FastAPI, Selenium, and PyQt5. Certified by Google & Meta, I excel in IT automation, backend dev, and Linux admin.  
 
-## 🎓 Certifications:
-<table>
-  <tr>
-    <td style="text-align: center;">
-      <h3>Open Source Software Development, Linux and Git Specialization</h3>
-      <a href="https://www.credly.com/badges/ad477ff6-44d4-4cd5-b45b-1bfec85897ae">
-        <img src="https://github.com/user-attachments/assets/152c795b-ce5a-4bfd-a501-844ae897ee08" alt="Open Source Software Development Badge" style="width: 150px; max-width: 220px;">
-      </a>
-      <p><strong>Issued by Coursera, Authorized by The Linux Foundation</strong></p>
-      <p>This specialization provides a strong foundation in open source development, Linux environments, and Git, enabling proficiency in open source communities and modern version control systems.</p>
-    </td>
-    <td style="text-align: center;">
-      <h3>Google IT Automation with Python Professional Certificate</h3>
-      <a href="https://www.credly.com/badges/9cea3615-1232-4b3e-9ad3-90937cc8542c">
-        <img src="https://github.com/user-attachments/assets/99e0c30d-15af-4bb9-8fa6-c627543821de" alt="Google IT Automation with Python Badge" style="width: 150px; max-width: 220px;">
-      </a>
-      <p><strong>Issued by Coursera</strong></p>
-      <p>This certificate is designed by Google to equip professionals with Python, Git, and IT automation skills, helping them advance careers in IT support and systems administration.</p>
-    </td>
-  </tr>
-</table>
+I create full-stack apps, streamline workflows, and optimize business processes. Let’s collaborate and build something impactful! 🚀  
 
-<!---
----
+## 🛠 Skills & Expertise  
+- **Languages:** Python, JavaScript, Bash  
+- **Frameworks & Libraries:** Django, FastAPI, Flask, PyQt5, PyQt6, PySide2, PySide6, Tkinter, Selenium, BeautifulSoup, Pandas  
+- **Web Development:** HTML, CSS, JavaScript, Next.js, Bootstrap, Tailwind CSS  
+- **Automation:** Scripting, Web Scraping, Data Parsing, Task Automation  
+- **Database Management:** SQL, MySQL, PostgreSQL, SQLite, MongoDB, Firebase, Supabase  
+- **Desktop Application Development:** PyQt5/PyQt6, PySide2/PySide6, Tkinter (Cross-Platform)  
+- **System Administration:** Linux, Bash Scripting, Server Configuration  
+- **Deployment & Cloud Services:** DigitalOcean, AWS, GCP, Azure, Vercel, Netlify, Railway, Heroku  
+- **Other Tools:** Git, Docker, REST APIs, CI/CD, WebSockets  
 
-## 📊 GitHub Statistics:
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=mjunaidjbr&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjunaidjbr&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjunaidjbr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
--->
----
-
-## 🛠 Skills & Expertise:
-- **Languages:** Python, JavaScript, Bash
-- **Frameworks & Libraries:** Django, Flask, PyQt5, Selenium, BeautifulSoup, Pandas
-- **Web Development:** HTML, CSS, JavaScript, Bootstrap, Tailwind CSS
-- **Automation:** Scripting, Web Scraping, Data Parsing, Task Automation
-- **Database Management:** SQL, MySQL, PostgreSQL, SQLite
-- **System Administration:** Linux, Bash Scripting, Server Configuration
-- **Other Tools:** Git, Docker, REST APIs, AWS
-
----
-
-## 📧 Let's Collaborate:
-I’m always open to discussing new opportunities and collaborations. If you have a project in mind, feel free to reach out through [LinkedIn](https://linkedin.com/in/mjunaidjbr) or connect with me via [Email](mailto:mjunaidjbr@gmail.com).
-
----
-
+## 🌐 Connect with Me  
+<p align="center">
+  <a href="https://www.fiverr.com/s/m5Belp9">
+    <img src="https://github.com/user-attachments/assets/e5e77ee3-8722-4a22-ae2b-48f5493f2861" width="125" height="50">
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01da7da99a502c25ad">
+    <img src="https://github.com/user-attachments/assets/e5ff2f07-9286-4e55-a1cf-7e6e0dfedd01" width="125" height="50">
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mjunaidjbr">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="75">
+  </a>
+  <a href="https://wa.me/923125297269">
+    <img src="https://github.com/user-attachments/assets/49d57208-e75f-4577-95a9-df5dbb1420c4" width="75">
+  </a>
+  <a href="mailto:mjunaidjbr@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="75">
+  </a>
+</p>
