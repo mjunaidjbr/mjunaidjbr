@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Junaid 👋</h1>
 
 <p align="center">
-  <b>Software Developer | Automation Expert | Full-Stack Engineer</b>  
+  <b>Software Engineer | Automation Specialist | Full-Stack Developer</b>  
 </p>
 <p align="center">https://mjunaidjbr.online</p>
 
